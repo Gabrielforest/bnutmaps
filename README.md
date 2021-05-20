@@ -27,4 +27,4 @@ Using that last one we've got this projection for the future of Amazon nut trees
 
  _Bertholletia excelsa_ (2041-2060) 
 
-![](image/futuressp245.png)
+![](https://github.com/Gabrielforest/bnutmaps/blob/master/image/futuressp245.PNG)
