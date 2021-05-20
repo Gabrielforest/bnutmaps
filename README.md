@@ -1,6 +1,6 @@
 ## Visualizing some results from scientific initiation
 
-Through this post it is possible to observe the best models achieved based on the metrics AUC
+Through this post it is possible to observe the best models achieved based on the AUC metrics
 during my first scientific initiation.
 
 You can check more details mainly through these shinyapps:
@@ -21,3 +21,10 @@ Using bioclimatic variables from WorldClim 2.1 and other terrain variables selec
 [Suitability Map - Environmental filtering](https://bideco.shinyapps.io/vif_vars_env/)
 Future projections using CMIP6 scenarios:
 [Future Projections - scenarios (SSP245 & SSP585)](https://bnutmodelling.shinyapps.io/future_env/)
+
+
+Using that last one we've got this projection for the future of Amazon nut trees for SSP245 scenario:
+
+ _Bertholletia excelsa_ (2041-2060) 
+
+![](image/futuressp245.png)
